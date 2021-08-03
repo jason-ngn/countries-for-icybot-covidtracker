@@ -1,4 +1,4 @@
-Estonia\n
+Estonia
 Guinea
 Korea (North)
 Libya
